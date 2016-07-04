@@ -1,9 +1,5 @@
 /* LED WORST CASE */
 
-/*Testando o GIT*/
-
-/*blabla2*/
-
 //Bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
