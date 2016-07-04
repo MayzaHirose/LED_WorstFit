@@ -1,3 +1,5 @@
+/* LED WORST CASE */
+
 //Bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
